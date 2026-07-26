@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "design/create-stream-wizard-advanced-toggle",
+    "design/dyslexia-friendly-font-toggle",
+    "design/low-vision-400-percent-zoom-reflow",
+    "fix/928-csv-dropzone-file-size-limit",
+    "fix/embed-theme-parser-validation",
+    "main",
+    "origin",
+    "test/csv-upload-coverage-948"
+  ],
+  "parent": {
+    "design/create-stream-wizard-advanced-toggle": "main",
+    "design/dyslexia-friendly-font-toggle": "main",
+    "design/low-vision-400-percent-zoom-reflow": "main",
+    "fix/928-csv-dropzone-file-size-limit": "main",
+    "fix/embed-theme-parser-validation": "main",
+    "main": null,
+    "origin": "main",
+    "test/csv-upload-coverage-948": "main"
+  },
+  "order": [
+    "main",
+    "design/create-stream-wizard-advanced-toggle",
+    "design/dyslexia-friendly-font-toggle",
+    "design/low-vision-400-percent-zoom-reflow",
+    "fix/928-csv-dropzone-file-size-limit",
+    "fix/embed-theme-parser-validation",
+    "origin",
+    "test/csv-upload-coverage-948"
+  ]
+}
